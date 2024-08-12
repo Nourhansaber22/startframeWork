@@ -1,0 +1,38 @@
+
+
+.bg-lab
+{
+    background-color: #1abc9c;
+    padding-bottom: 6%;
+}
+
+.about{
+  padding: 13% 0;
+}
+.about h1{
+    text-transform: capitalize;
+    font-size: 50px;
+    color: #fff;
+}
+
+.cont-after{
+    /* background-color: blue; */
+    width: 30%;
+    height: 30px;
+   margin-left: 35%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.cont-after .first {
+    background-color:#fff;
+    width:30% ;
+    height: 5px;
+    margin: 0 15px;
+}
+.cont-after .seconde {
+    background-color:#fff;
+    width:30% ;
+    height: 5px;
+    margin: 0 15px;
+}

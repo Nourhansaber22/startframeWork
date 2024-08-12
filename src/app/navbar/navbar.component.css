@@ -1,0 +1,33 @@
+.collapse ul li{
+    text-transform: capitalize;
+    margin-left: 30px;
+    font-size: 30px;
+}
+/*  */
+.collapse{
+    margin-left: 10%;
+    /* background-color: red; */
+}
+.ms-10{
+    margin-left: 30%;
+}
+.start{
+    font-size: 40px;
+}
+
+.bg-ram{
+    background-color: #2C3E50;
+}
+.navbar a{
+    color: #fff;
+}
+
+.navbar{
+    background-color: #2C3E50 !important;
+    
+}
+
+.bg-lab
+{
+    background-color: #1abc9c;
+}
